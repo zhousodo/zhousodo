@@ -68,7 +68,7 @@
 
 <h1 align="center">
 
-![Zhousodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhousodo&theme=dark&show_icons=true)
+![Zhousodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhousodo&theme=default&show_icons=true)
 
 <hr>
 
