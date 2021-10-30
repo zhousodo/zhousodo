@@ -68,7 +68,7 @@
 
 <h1 align="center">
 
-![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=zhousodo&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Zhousodo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhousodo&theme=dark&show_icons=true)
 
 <hr>
 
