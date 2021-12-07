@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with Neural Network 
 - 📫 How to reach me: zhousodo@gmail.com 
 - 😄 Pronouns: Fighting!!! 
-- ⚡ Fun fact: I don't have a girlfriend.😭😭😭 
+
 
 
 
