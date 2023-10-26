@@ -9,7 +9,8 @@
 - 🔭 I’m currently working on Security Lab 
 - 🌱 I’m currently learning Python,KddCup 
 - 🤔 I’m looking for help with Neural Network 
-- 😄 Pronouns: Fighting!!! 
+- 😄 Pronouns: Fighting!!!
+- Mail:zhousodo@gmail.com
 
 
 
